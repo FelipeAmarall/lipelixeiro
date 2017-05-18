@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\temp\visual studio 2015\projects\sorts\sorts\source.cpp(68): warning C4101: 'vet2': unreferenced local variable
+c:\temp\visual studio 2015\projects\sorts\sorts\source.cpp(67): warning C4101: 'vet': unreferenced local variable
+  Sorts.vcxproj -> c:\temp\visual studio 2015\Projects\Sorts\Debug\Sorts.exe
+  Sorts.vcxproj -> c:\temp\visual studio 2015\Projects\Sorts\Debug\Sorts.pdb (Partial PDB)
